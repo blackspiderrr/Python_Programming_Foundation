@@ -1,0 +1,8 @@
+(command "donut" 1 1 '(70 15)"")
+(command "donut" 1 1 '(30 44)"")
+(command "donut" 1 1 '(98 77)"")
+(command "donut" 1 1 '(31 81)"")
+(command "donut" 1 1 '(2 100)"")
+(command "line" '(70 15)'(30 44)"")
+(command "line" '(30 44)'(70 15)"")
+(command "line" '(98 77)'(70 15)"")
